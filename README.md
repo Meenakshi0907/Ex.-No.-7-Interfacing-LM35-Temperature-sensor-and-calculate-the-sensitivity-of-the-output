@@ -212,10 +212,12 @@ int main(){
 ```
 
 ## Tabulations and graph 
-Calculation of sensitivity 
-% of sensitivity is   S=  (T2-T1)/(A2-A1)*100
+## Calculation of sensitivity 
+# % of sensitivity is   S=  (T2-T1)/(A2-A1)*100
+![image](https://user-images.githubusercontent.com/94165108/201375942-89d02a1b-846f-4d20-84a0-60674e54ddb4.png)
 
-Figure -09 graph between temperature values and ADC output 
+## Figure -09 graph between temperature values and ADC output 
+![image](https://user-images.githubusercontent.com/94165108/201376047-b4367a82-df82-4318-a976-d57d6d21ebfb.png)
 
 ## Output screen shots :
 ![ss1](./ss1.png)
